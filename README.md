@@ -22,7 +22,7 @@ HOW TO USE
  default exact is 1000000 , it located about 500M memory .
 
 +++ Bloom filter test
- curl 127.0.0.1:8080/find?id=XXXXX
+ curl 127.0.0.1:8080/bloom?id=XXXXX
 
 if the segement is not process bloomfilter yet,it return  "FALSE".
  otherwise,processing a duplicate data,it would return  "TURE"
