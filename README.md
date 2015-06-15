@@ -1,6 +1,11 @@
 # bloomfilter-api
 A bloom filter  which base web.py
 
+REQUIREMENT
+===========
+pip install web.py
+pip insatll pybloom
+
 RUN
 ===
 python bloomfilter.py 8080
