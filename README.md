@@ -1,9 +1,10 @@
 # bloomfilter-api
-A bloom filter  which base web.py
+A simply bloom filter  which base web.py
 
 REQUIREMENT
 ===========
 pip install web.py
+
 pip insatll pybloom
 
 RUN
