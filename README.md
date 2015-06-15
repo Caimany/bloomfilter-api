@@ -16,7 +16,9 @@ python bloomfilter.py 8080
 HOW TO USE
 ==========
 +++ Change the capacity of bloom filter
+
  modify the value of the bloomfilter.py 
+ 
  default exact is 1000000 , it located about 500M memory .
 
 +++ Bloom filter test
